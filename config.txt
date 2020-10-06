@@ -1,0 +1,3 @@
+id:DiscordUsername
+password:DiscordPassword
+cooldown(in minutes):15
